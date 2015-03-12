@@ -1,0 +1,28 @@
+{
+  "name": "frame-drills",
+  "version": "1.0.0",
+  "homepage": "http://internetimagery.github.io/frame-drills",
+  "authors": [
+    "Jason <jason.dixon.email@gmail.com>"
+  ],
+  "description": "Learning animation timing through example",
+  "main": "index.html",
+  "keywords": [
+    "animation",
+    "education",
+    "timing"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "fontawesome": "~4.3.0"
+  }
+}
